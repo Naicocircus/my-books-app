@@ -1,0 +1,3 @@
+export const authorizationHeader = {
+  'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NzY0NDA1Yjk5MDYxMDAwMTViNjc5NTciLCJpYXQiOjE3Mzc5NzQzMjQsImV4cCI6MTczOTE4MzkyNH0.HFSNszxvqMJ4yoxHHc4wX3nM9jo0mDkKG-0Lj7qHj28'
+}; 

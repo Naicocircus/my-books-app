@@ -1,0 +1,41 @@
+.App {
+  background-color: #1a1a1a;
+  color: #ffffff;
+}
+
+.border-purple {
+  border-color: #8A2BE2 !important;
+}
+
+.card {
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  transform: scale(1.03);
+  box-shadow: 0 0 10px rgba(138, 43, 226, 0.5);
+}
+
+.book-card {
+  max-height: 450px;
+  max-width: 280px;
+  margin: 0 auto;
+}
+
+.book-card-image {
+  height: 280px;
+  object-fit: contain;
+  object-position: center;
+  padding: 10px;
+}
+
+.book-card-title {
+  color: #8A2BE2;
+  font-size: 1rem;
+  height: 40px;
+  overflow: hidden;
+}
+
+.book-card-text {
+  font-size: 1rem;
+}
